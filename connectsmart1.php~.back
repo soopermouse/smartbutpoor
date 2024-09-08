@@ -1,0 +1,7 @@
+<?php
+$link=mysqli_connect("localhost","cl60-smart","mouse","cl60-smart");
+
+//function redirect($index){
+	//header("location: $index");
+	//exit;
+	//}

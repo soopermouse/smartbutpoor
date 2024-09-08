@@ -1,0 +1,7 @@
+<?php
+$link=mysqli_connect("shareddb1a.hosting.stackcp.net","cl60-smartec","mouse","cl60-smartec");
+
+//function redirect($index){
+	//header("location: $index");
+	//exit;
+	//}
